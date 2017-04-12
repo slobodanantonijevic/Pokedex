@@ -12,7 +12,7 @@ TODO:
 - [x] Pokemon object
 - [x] Main layout and Collection Cell layout
 - [x] Collection view delegate, data source and flow layout
-- [ ] Parse included data
+- [x] Parse included data
 - [ ] Audio resources and custom fonts
 - [ ] Search bar and Search process filtering
 - [ ] Detail controller and detail segue
